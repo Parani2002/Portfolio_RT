@@ -2,7 +2,6 @@
   "name": "portfolio-rt",
   "homepage": "https://parani2002.github.io/portfolio-rt/",
   "description": "A portfolio website built with React and Tailwind CSS.",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -17,6 +16,7 @@
     "@material-tailwind/react": "^2.1.10",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.487.0",
     "motion": "^12.9.2",
     "react": "^18.2.0",
