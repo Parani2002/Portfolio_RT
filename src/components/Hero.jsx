@@ -15,7 +15,7 @@ const Hero = () => {
           transition={{ duration: 1, delay: 0.2 }}
           className="text-4xl md:text-6xl font-bold mb-6"
         >
-          Hello, I&apos;m <span className="text-primary">Paranitharan</span>
+          Hello, I&apos;m <span className="text-primary">Paranitharan Suntharalingam</span>
         </motion.h1>
 
         <motion.p
