@@ -2,7 +2,7 @@ const projects = [
   {
     id: 1,
     name: "Campus Navigator",
-    image:"src/assets/group-project.jpg",
+    image:"public/images/group-project.jpg",
     technology: ['JavaScript','Python(Flask)','MongoDB'],
     github:"https://github.com/Parani2002/SDGP-SE4.git",
     live:"https://marketing-website-lyart.vercel.app/",
@@ -12,7 +12,7 @@ const projects = [
   {
     id: 2,
     name: "Simple To-Do-List",
-    image:"src/assets/react.jpg",
+    image:"public/images/react.jpg",
     technology: ["ReactJS"],
     github:"https://github.com/Parani2002/To-Do-List-App.git",
     live:"https://66375b058606ebb9e3b38c4a--idyllic-pithivier-9869a4.netlify.app/",
@@ -22,7 +22,7 @@ const projects = [
   {
     id: 3,
     name: "Shopping System",
-    image:"src/assets/java-project.jpg",
+    image:"public/images/java-project.jpg",
     technology: ["Java", "Java Swing"],
     github:"",
     live:"",
@@ -32,7 +32,7 @@ const projects = [
   {
     id: 4,
     name: "Personal Portfolio",
-    image:"src/assets/portfolio.jpg",
+    image:"public/images/portfolio.jpg",
     technology: ["React JS","Tailwind CSS"],
     github:"https://github.com/Parani2002/Portfolio.git",
     demo:"https://6637a0f7a93f24eaa2cbe966--paraniportfolio.netlify.app/",
@@ -42,7 +42,7 @@ const projects = [
   {
     id: 5,
     name: "School Management System",
-    image:"src/assets/school2.jpg",
+    image:"public/images/school2.jpg",
     technology: ["Laravel","Livewire","MySQL","Tailwind CSS"],
     github:"https://github.com/Parani2002/laravel-mydynamica-2024.git",
     demo:"https://6637a0f7a93f24eaa2cbe966--paraniportfolio.netlify.app/",
