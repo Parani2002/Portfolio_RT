@@ -22,7 +22,7 @@ const projects = [
   {
     id: 3,
     name: "Shopping System",
-    image:"public/images/java-project.jpg",
+    image:"../../public/images/java-project.jpg",
     technology: ["Java", "Java Swing"],
     github:"",
     live:"",
