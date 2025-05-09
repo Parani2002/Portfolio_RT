@@ -9,7 +9,7 @@ const AboutMe = () => {
       <h2 className="text-2xl mt-8 text-gray-600 mb-4">Get To Know More</h2>
       <h2 className="text-5xl font-bold mb-8 tracking-wide">About Me</h2>
       <img
-        src="public/images/myimage.png"
+        src={myimage}
         alt="my-image"
         width={200}
         height={200}
@@ -18,7 +18,7 @@ const AboutMe = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <div className="border rounded-xl border-gray-500 px-16 py-8 flex flex-col items-center">
           <img
-            src={myimage}
+            src="public/images/experience.png"
             alt="experience"
             height={30}
             width={30}
