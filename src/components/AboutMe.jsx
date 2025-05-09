@@ -1,6 +1,7 @@
 
 import technologies from "../constants/technologies";
 import studies from "../constants/study";
+import myimage from "../../public/images/myimage.png";
 
 const AboutMe = () => {
   return (
@@ -17,7 +18,7 @@ const AboutMe = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <div className="border rounded-xl border-gray-500 px-16 py-8 flex flex-col items-center">
           <img
-            src="public/images/experience.png"
+            src={myimage}
             alt="experience"
             height={30}
             width={30}

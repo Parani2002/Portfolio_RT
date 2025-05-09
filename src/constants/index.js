@@ -1,8 +1,11 @@
+
+import groupproject from "../../public/images/group-project.jpg";
+
 const projects = [
   {
     id: 1,
     name: "Campus Navigator",
-    image:"public/images/group-project.jpg",
+    image:groupproject,
     technology: ['JavaScript','Python(Flask)','MongoDB'],
     github:"https://github.com/Parani2002/SDGP-SE4.git",
     live:"https://marketing-website-lyart.vercel.app/",
