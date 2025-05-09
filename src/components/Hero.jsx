@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import myresume from "../../public/assets/cv/my-resume.pdf";
 
 
 const Hero = () => {
@@ -36,7 +37,7 @@ const Hero = () => {
           className="flex flex-col sm:flex-row gap-4 justify-center"
         >
           <motion.a
-            href="src/assets/my resume.pdf"
+            href={myresume}
             download={true}
             whileHover={{ scale: 1.2, transition: { duration: 1 } }}
             whileTap={{ scale: 0.9 }}
